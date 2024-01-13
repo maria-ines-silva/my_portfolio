@@ -42,11 +42,11 @@ I graduated in Environmental Biology with a specialization in Marine Biology fro
 #### Posters and Science Communication Material
 
 **Ciências Research & Innovation Day | FCUL | October 2023**
-- TUNAPRINT: Molecular identification of canned tuna in Portugal from the project TUNAPRINT|the tuna behind the can
+TUNAPRINT: Molecular identification of canned tuna in Portugal from the project TUNAPRINT|the tuna behind the can
 ![poster tunaprint](images/ciencias_research_day_poster.png)
 
 **European Researcher's Night 2023 | "Science for All - Sustainability and Inclusion" | September 2023**
-- From the Ice Age to the plate: the genetic journey of our fishery resources
+From the Ice Age to the plate: the genetic journey of our fishery resources
 
 Such a great experience! On the last friday night of September we were on the National Museum of Natural History and Science sharing the TUNAPRINT project results. We design a quick and fun game to show people what COULD be inside their tuna cans. Cheeck out our poster and dissemintaion materials bellow.
 ![stand photo](images/NEI2023_foto actividade_2.jpg)
@@ -54,7 +54,7 @@ Such a great experience! On the last friday night of September we were on the Na
 - You can also download our Canned Tuna Consummer's Guide (Pt) [here](https://drive.google.com/uc?export=download&id=15LWc91HtDBjv3dY4EALzFE1DBkIkWtwW)
 
 **Ciências Open Day 2023 | May 2023**
-- Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)"
+Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)"
 ![boarfish poster](images/poster Dia aberto 23 - Struggling with fish age.png)
 Read about it [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
 
