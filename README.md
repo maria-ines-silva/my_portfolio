@@ -48,7 +48,7 @@ Project "Distance between replicates for studying Foraminifera in recent tropica
 - From the Ice Age to the plate: the genetic journey of our fishery resources
 Such a great experience! On the last friday night of September we were on the National Museum of Natural History and Science sharing the TUNAPRINT project results. We design a quick and fun game to show people what COULD be inside their tuna cans. Cheeck out our poster and dissemintaion materials bellow.
 ![stand photo]()
-[poster]()
+[poster](images/poster A2 NEI23 - TUNAPRINT.png)
 - You can also download our Canned Tuna Consummer's Guide (Pt) [here](https://drive.google.com/uc?export=download&id=15LWc91HtDBjv3dY4EALzFE1DBkIkWtwW)
 
 **Ciências Open Day 2023 | May 2023**
