@@ -42,7 +42,7 @@ Project "Distance between replicates for studying Foraminifera in recent tropica
 
 **Ciências Research & Innovation Day | FCUL | October 2023**
 - TUNAPRINT: Molecular identification of canned tuna in Portugal from the project TUNAPRINT|the tuna behind the can
-![poster tunaprint]()
+![poster tunaprint](images/ciencias_research_day_poster.png)
 
 **European Researcher's Night 2023 | "Science for All - Sustainability and Inclusion" | September 2023**
 - From the Ice Age to the plate: the genetic journey of our fishery resources
