@@ -15,4 +15,17 @@ Environmental Biology (Marine Variant), BSc
 ## What have I been up to?
 
 ### Projects
+
+VALORSUL Monitoring Program - CTRSU de S. João da Talha | 2022-Today | Provision of services
+- Colaborator on the Monitoring Program of Terrestrial and Estuarine ecossistems surrounding a Solid Waste Treatment Plant in Lisbon (CTRSU de S. João da Talha)
+- Conducted data collection, processing, and analysis on macroinvertebrates an ichthyofauna
+- Produced the Annual Monitoring Report 
+
+InterDIS 2.0 2024
+- Part of the organizing Committee for the 2nd edition of the da “Summer school for Interdisciplinary Ocean transformation”, with ICES Strategic Initiative on the Integration of Early Career Scientists (SIIECS) for 2024
+- Reviewing of the evaluation report on the 1st edition of InterDIS 2023
+- Reviewing of the funding proposal
+
+- Check out a video on the 1st SIIECS Oyster InterDis Summer School 2023 [here](https://www.youtube.com/watch?v=_x5efq0URrU)
+
 Project "Distance between replicates for studying Foraminifera in recent tropical and temperate estuarine environments: methodology and experimental design" | FCUL | December 2019
