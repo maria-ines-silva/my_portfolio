@@ -31,3 +31,24 @@ InterDIS 2.0 2024
 - Check out a video on the 1st SIIECS Oyster InterDis Summer School 2023 [here](https://www.youtube.com/watch?v=_x5efq0URrU)
 
 Project "Distance between replicates for studying Foraminifera in recent tropical and temperate estuarine environments: methodology and experimental design" | FCUL | December 2019
+
+
+### Outputs
+
+
+#### Posters and Science Communication Material
+
+Ciências Open Day 2023 | Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)"
+![boarfish poster](
+
+
+
+#### Reports
+Annual Report 2023 - Monitoring Program of Terrestrial and Estuarine Ecossystems surrounding S. João da Talha Solid Waste Treatment Plant
+- Brotas V., Sim-Sim M., Vieira A.R., Caçador I., Duarte B., Gordo L.S., Martins A., Silva M.I., Tracana A. & Veloso V. 2023. Programa de Monitorização dos ecossistemas terrestre e estuarino na envolvente à CTRSU de S. João da Talha – Relatório Anual de 2023. Dezembro de 2023, 110 p. + Anexos.
+
+Annual Report 2022 - Monitoring Program of Terrestrial and Estuarine Ecossystems surrounding S. João da Talha Solid Waste Treatment Plant
+- Vieira A.R., Brotas V., Sim-Sim M., Caçador I., Duarte B., Garcia C., Gordo L.S., Martins A., Silva M.I., Tracana A. & Veloso V. 2022. Programa de Monitorização dos ecossistemas terrestre e estuarino na envolvente à CTRSU de S. João da Talha – Relatório Anual de 2022. Dezembro de 2022, 105 p. + Anexos.
+
+
+
