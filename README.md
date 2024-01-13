@@ -26,6 +26,8 @@ InterDIS 2.0 2024
 - Reviewing of the evaluation report on the 1st edition of InterDIS 2023
 - Reviewing of the funding proposal
 
+![group photo](/images/photo/InterDIS_group_photo.jpg)
+
 - Check out a video on the 1st SIIECS Oyster InterDis Summer School 2023 [here](https://www.youtube.com/watch?v=_x5efq0URrU)
 
 Project "Distance between replicates for studying Foraminifera in recent tropical and temperate estuarine environments: methodology and experimental design" | FCUL | December 2019
