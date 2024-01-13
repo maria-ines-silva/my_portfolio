@@ -39,7 +39,7 @@ Project "Distance between replicates for studying Foraminifera in recent tropica
 #### Posters and Science Communication Material
 
 Ciências Open Day 2023 | Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)"
-![boarfish poster](
+![boarfish poster](images/poster Dia aberto 23 - Struggling with fish age.png)
 
 
 
