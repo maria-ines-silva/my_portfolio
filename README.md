@@ -7,7 +7,7 @@ I graduated in Environmental Biology with a specialization in Marine Biology fro
 ### Education
 Marine Ecology, MSc
 - Faculty of Sciences of the University of Lisbon (FCUL)
-- Dissertation on Fish Age and Growth: "Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)"
+- Dissertation on Fish Age and Growth: "Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)" 
 
 Environmental Biology (Marine Variant), BSc
 - Faculty of Sciences of the University of Lisbon (FCUL)
