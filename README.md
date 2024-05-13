@@ -17,12 +17,22 @@ I graduated in Environmental Biology with a specialization in Marine Biology fro
 
 ### Projects
 
+**SRIT - Development of a Species Resilence Impact Tool | 2024-Today**
+- Responsible for the data collection, extraction and compilation task, on terrestrial mammals’ life-history traits from multiple databases, in R (for the rangeshifter model)
+
+**BLIZ - Interactions between society, land use, ecosystem services and biodiversity in Bavaria until 2100 | 2024-Today** 
+- Responsible for the data visualization task of species distribution models outputs (from MetaRange), in R and R Markdown
+
+**TUNAPRINT: The tuna behind the can | 2022-2023**
+- Participation on sampling events, DNA extraction and PCR analysis and disseminations events
+- Resposible for the production of dissemination materials, including a card game, a canned tuna consumer's guide and poster sumarising project results.
+
 **VALORSUL Monitoring Program - CTRSU de S. João da Talha | 2022-Today | Provision of services**
 - Colaborator on the Monitoring Program of Terrestrial and Estuarine ecossistems surrounding a Solid Waste Treatment Plant in Lisbon (CTRSU de S. João da Talha)
 - Conducted data collection, processing, and analysis on macroinvertebrates an ichthyofauna
 - Produced the Annual Monitoring Report 
 
-**InterDIS Summer School 2.0 2024**
+**InterDIS Summer School 2.0**
 - Part of the Organizing Committee for the 2nd edition of the da “Summer school for Interdisciplinary Ocean transformation”, with ICES Strategic Initiative on the Integration of Early Career Scientists (SIIECS) for 2024
 - Reviewing of the evaluation report on the 1st edition of InterDIS 2023
 - Reviewing of the funding proposal
@@ -38,6 +48,9 @@ I graduated in Environmental Biology with a specialization in Marine Biology fro
 
 ### Outputs
 
+#### Pre-prints
+
+Silva, Maria Inês and Martins, Rui and Sequeira, Vera and Silva, Dina and Farias, Inês and Assis, Carlos A. and Gordo, Leonel Serrano and Vieira, Ana Rita, Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros Aper (Linnaeus, 1758). Available at SSRN:[https://ssrn.com/abstract=4703327](https://ssrn.com/abstract=4703327) or [http://dx.doi.org/10.2139/ssrn.4703327](http://dx.doi.org/10.2139/ssrn.4703327)
 
 #### Posters and Science Communication Material
 
