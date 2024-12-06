@@ -25,7 +25,7 @@ I thrive in team settings, bringing motivation, creativity, and a meticulous eye
 
 # What have I been up to?
 
-## Projects
+## **Projects**
 
 **SRIT - Development of a Species Resilence Impact Tool | 2024-Present**
 - Focus Area: Terrestrial Ecology & Data Management
