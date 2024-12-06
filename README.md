@@ -71,13 +71,28 @@ Proficient in the ggplot and raster packages for high-quality visualization and 
 
 #### Publications
 
-Silva, Maria Inês and Martins, Rui and Sequeira, Vera and Silva, Dina and Farias, Inês and Assis, Carlos A. and Gordo, Leonel Serrano and Vieira, Ana Rita, Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros Aper (Linnaeus, 1758). Available at SSRN:[https://ssrn.com/abstract=4703327](https://ssrn.com/abstract=4703327) or [http://dx.doi.org/10.2139/ssrn.4703327](http://dx.doi.org/10.2139/ssrn.4703327)
+Silva, Maria Inês and Martins, Rui and Sequeira, Vera and Silva, Dina and Farias, Inês and Assis, Carlos A. and Gordo, Leonel Serrano and Vieira, Ana Rita, Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros Aper (Linnaeus, 1758). Available at [https://www.nature.com/articles/s41598-024-71209-5](https://www.nature.com/articles/s41598-024-71209-5)
 
-#### Posters and Science Communication Material
+#### Conference communications
 
-**Ciências Research & Innovation Day (October 2023)**
-TUNAPRINT: Molecular identification of canned tuna in Portugal from the project TUNAPRINT|the tuna behind the can
+**Turning the tables: Can boarfish become the next sustainable fishery for the Portuguese coast?** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
+
+**Unlocking potential: Leveraging no-value bycatch species into new opportunities** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
+
+
+#### Conference Posters
+
+**From the Pliocene to present: diversification, gene flow and selection in European sardine’s mitogenomes**
+Presented at the 2024 Ciencias Research & Innovation Day
+
+**Estimation of corporate’s effects on species abundance based on ecological processes**
+Presented at the 20th Conference on Complex Systems (CCS2024) at the University of Exeter (UK)
+
+**TUNAPRINT: Molecular identification of canned tuna in Portugal**
+Presented at the 2023 Ciencias Research & Innovation Day
 ![poster tunaprint](images/ciencias_research_day_poster.png)
+
+#### Outreach & Science Communication 
 
 **European Researcher's Night 2023 "Science for All - Sustainability and Inclusion" (September 2023)**
 From the Ice Age to the plate: the genetic journey of our fishery resources
