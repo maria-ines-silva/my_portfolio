@@ -94,7 +94,16 @@ Presented at the 2023 Ciencias Research & Innovation Day
 
 #### Outreach & Science Communication 
 
-**European Researcher's Night 2023 "Science for All - Sustainability and Inclusion" (September 2023)**
+**MSc and PhD Day in Sciences 2023**
+
+**Ciências Open Day 2023**
+![boarfish poster](images/poster Dia aberto 23 - Struggling with fish age.png)
+
+Check out an article about his [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
+
+**24th Pavilion of Knowledge “Centro de Ciência Viva” Anniversary**
+
+**European Researcher's Night 2023 "Science for All - Sustainability and Inclusion"**
 From the Ice Age to the plate: the genetic journey of our fishery resources
 
 Such a great experience! On the last friday night of September we were at the National Museum of Natural History and Science sharing the TUNAPRINT project results. We designed a quick and fun game to show what COULD really be inside our tuna cans. Check out our poster and dissemination materials bellow.
@@ -102,20 +111,5 @@ Such a great experience! On the last friday night of September we were at the Na
 
 [poster](images/poster A2 NEI23 - TUNAPRINT.png)
 - You can also download our Canned Tuna Consummer's Guide (Pt) [here](https://drive.google.com/uc?export=download&id=15LWc91HtDBjv3dY4EALzFE1DBkIkWtwW)
-
-**Ciências Open Day 2023 (May 2023)**
-
-Struggling with fish age: a comparison of otolith preparation techniques to unravel age and growth of boarfish, _Capros aper_ (Linnaeus, 1758)"
-![boarfish poster](images/poster Dia aberto 23 - Struggling with fish age.png)
-You can read more about it [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
-
-
-#### Reports
-**Annual Report 2023 - Monitoring Program of Terrestrial and Estuarine Ecossystems surrounding S. João da Talha Solid Waste Treatment Plant**
-- Brotas V., Sim-Sim M., Vieira A.R., Caçador I., Duarte B., Gordo L.S., Martins A., Silva M.I., Tracana A. & Veloso V. 2023. Programa de Monitorização dos ecossistemas terrestre e estuarino na envolvente à CTRSU de S. João da Talha – Relatório Anual de 2023. Dezembro de 2023, 110 p. + Anexos.
-
-**Annual Report 2022 - Monitoring Program of Terrestrial and Estuarine Ecossystems surrounding S. João da Talha Solid Waste Treatment Plant**
-- Vieira A.R., Brotas V., Sim-Sim M., Caçador I., Duarte B., Garcia C., Gordo L.S., Martins A., Silva M.I., Tracana A. & Veloso V. 2022. Programa de Monitorização dos ecossistemas terrestre e estuarino na envolvente à CTRSU de S. João da Talha – Relatório Anual de 2022. Dezembro de 2022, 105 p. + Anexos.
-
 
 
