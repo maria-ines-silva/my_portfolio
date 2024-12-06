@@ -1,16 +1,18 @@
 # Fisheries biologist
 
-## About me
+# About me
 
 I am an Environmental Biologist with a deep-rooted passion for Marine Biology and a specialization in Fisheries Biology and Marine Ecology. I hold both a bachelor's degree in Environmental Biology and a master's in Marine Ecology from the University of Lisbon's Faculty of Sciences (FCUL). 
 
-My passion lies in understanding fish life-history strategies, population dynamics, and the application of statistical modeling to address pressing challenges in fisheries science. I am particularly driven by the need to bridge scientific findings with real-world applications, ensuring that research informs sustainable fisheries management and conservation efforts in accessible and impactful ways. Currently, I am a Research Collaborator at MARE-ULisboa (Marine and Environmental Sciences Centre), where I work with the Fisheries Biology Lab on fish life-history and genetics projects. Beyond the aquatic world, I venture into terrestrial systems, collaborating with the SRIT and BLIZ teams at the Stockholm Resilience Centre on population dynamics models for mammals and plants. 
+My passion lies in understanding fish life-history strategies, population dynamics, and the application of statistical modeling to address pressing challenges in fisheries science. I am particularly driven by the need to bridge scientific findings with real-world applications, ensuring that research informs sustainable fisheries management and conservation efforts in accessible and impactful ways. Currently, I am a Research Collaborator at MARE-ULisboa (Marine and Environmental Sciences Centre), where I work with the Fisheries Biology Lab on fish life-history and genetics projects. Beyond the aquatic world, I venture into terrestrial systems, collaborating with the SRIT and BLIZ teams from the SRC (Stockholm Resilience Centre) on population dynamics models for mammals and plants. 
 
-As a field and laboratory researcher, I thrive in team settings, bringing motivation, creativity, and a meticulous eye for detail to every project. I also have a background in Environmental Education, which has reinforced my commitment to making science accessible and impactful for diverse audiences. My ultimate goal is to contribute to fisheries research that not only advances our understanding of aquatic ecosystems but also drives solutions for their sustainable management.
+I thrive in team settings, bringing motivation, creativity, and a meticulous eye for detail to every project. I also have a background in Environmental Education, which has reinforced my commitment to making science accessible and impactful for diverse audiences.
+
+**My ultimate goal?  Contribute to fisheries research that not only advances our understanding of aquatic ecosystems but also drives solutions for their sustainable management.**
 
 
 
-### Education
+# Education
 
 **MSc in Marine Ecology**
 - Faculty of Sciences of the University of Lisbon (FCUL)
@@ -21,9 +23,9 @@ As a field and laboratory researcher, I thrive in team settings, bringing motiva
 - Faculty of Sciences of the University of Lisbon (FCUL)
 - Specialization: Marine Biology
 
-## What have I been up to?
+# What have I been up to?
 
-### Projects
+## Projects
 
 **SRIT - Development of a Species Resilence Impact Tool | 2024-Present**
 - Focus Area: Terrestrial Ecology & Data Management
@@ -67,20 +69,20 @@ Proficient in the ggplot and raster packages for high-quality visualization and 
 - Conducted sample preparation, species identification, sorting, and counting of foraminifera individuals and species to support research
 
 
-### Outputs
+## Outputs
 
-#### Publications
+### Publications
 
 Silva, Maria Inês and Martins, Rui and Sequeira, Vera and Silva, Dina and Farias, Inês and Assis, Carlos A. and Gordo, Leonel Serrano and Vieira, Ana Rita, Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros Aper (Linnaeus, 1758). Available at [https://www.nature.com/articles/s41598-024-71209-5](https://www.nature.com/articles/s41598-024-71209-5)
 
-#### Conference communications
+### Conference communications
 
 **Turning the tables: Can boarfish become the next sustainable fishery for the Portuguese coast?** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
 
 **Unlocking potential: Leveraging no-value bycatch species into new opportunities** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
 
 
-#### Conference Posters
+### Conference Posters
 
 **From the Pliocene to present: diversification, gene flow and selection in European sardine’s mitogenomes**
 Presented at the 2024 Ciencias Research & Innovation Day
@@ -92,7 +94,7 @@ Presented at the 20th Conference on Complex Systems (CCS2024) at the University 
 Presented at the 2023 Ciencias Research & Innovation Day
 ![poster tunaprint](images/ciencias_research_day_poster.png)
 
-#### Outreach & Science Communication 
+### Outreach & Science Communication 
 
 **MSc and PhD Day in Sciences 2023**
 
