@@ -1,4 +1,4 @@
-## Fisheries biologist
+# Fisheries biologist
 
 # About me
 
@@ -99,7 +99,6 @@ Presented at the 2023 Ciencias Research & Innovation Day
 **MSc and PhD Day in Sciences 2023**
 
 **Ciências Open Day 2023**
-![boarfish poster](images/poster Dia aberto 23 - Struggling with fish age.png)
 
 Check out an article about his [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
 
