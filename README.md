@@ -2,17 +2,21 @@
 
 # About me
 
-I am an Environmental Biologist with a deep-rooted passion for Marine Biology and a specialization in Fisheries Biology and Marine Ecology. I hold both a bachelor's degree in Environmental Biology and a master's in Marine Ecology from the University of Lisbon's Faculty of Sciences (FCUL). 
+I am an Environmental Biologist with a deep-rooted passion for Fisheries Biology and a specialization in Marine Ecology. 
 
-My passion lies in understanding fish life-history strategies, population dynamics, and the application of statistical modeling to address pressing challenges in fisheries science. I am particularly driven by the need to bridge scientific findings with real-world applications, ensuring that research informs sustainable fisheries management and conservation efforts in accessible and impactful ways. Currently, I am a Research Collaborator at MARE-ULisboa (Marine and Environmental Sciences Centre), where I work with the Fisheries Biology Lab on fish life-history and genetics projects. Beyond the aquatic world, I venture into terrestrial systems, collaborating with the SRIT and BLIZ teams from the SRC (Stockholm Resilience Centre) on population dynamics models for mammals and plants. 
+My passion lies in understanding fish life-history strategies, accurate data collection and the application of statistical modeling to address pressing challenges in fisheries science. I am also particularly driven by the need to bridge scientific findings with real-world applications, ensuring that  our research informs sustainable fisheries management and conservation efforts in accessible and impactful ways. Currently, I am a Research Collaborator at MARE-ULisboa (Marine and Environmental Sciences Centre), where I work with the Fisheries Biology Lab on fish life-history and genetics projects. But beyond the aquatic world, I also venture into terrestrial systems, collaborating with the SRIT and BLIZ teams from the SRC (Stockholm Resilience Centre) on population dynamics models for mammals and plants. 
 
-I thrive in team settings, bringing motivation, creativity, and a meticulous eye for detail to every project. I also have a background in Environmental Education, which has reinforced my commitment to making science accessible and impactful for diverse audiences.
+I thrive in team settings, bringing motivation, creativity, and a meticulous eye for detail to every project. I also have some experience in Environmental Education, which has been reinforced by my commitment to making science accessible and impactful for different audiences.
 
 **My ultimate goal?  Contribute to fisheries research that not only advances our understanding of aquatic ecosystems but also drives solutions for their sustainable management.**
 
 
 
 # Education
+
+**PhD student in Biology and Ecology of Global Changes**
+- Faculty of Sciences of the University of Lisbon (FCUL) & Liverpool John Moores University
+- Research project: "Water has memory: eDNA as a new tool to assess purse-seine fisheries discards"
 
 **MSc in Marine Ecology**
 - Faculty of Sciences of the University of Lisbon (FCUL)
@@ -29,7 +33,7 @@ I thrive in team settings, bringing motivation, creativity, and a meticulous eye
 
 **SRIT - Development of a Species Resilence Impact Tool | 2024-Present**
 - Focus Area: Terrestrial Ecology & Data Management
-- Part of the FinBio Project, financed by MISTRA and hosted at the Stockholm Resilience Centre.
+- Part of the [FinBio](https://finbio.org/) Project, financed by [MISTRA](https://mistra.org/#eng) and hosted at the Stockholm Resilience Centre.
 - Led data collection, extraction, and compilation tasks for terrestrial mammals’ life-history traits from multiple databases, to serve as input for the RangeShifter model.
 - Created species suitability landscapes and mine impact landscapes to assess resilience under disturbance scenarios.
 - Calculated species resilience and community metrics, integrating these into actionable conservation models.
@@ -39,10 +43,12 @@ Athough we did not make it in the final round this project has been the Country 
 
 **BLIZ - Interactions between society, land use, ecosystem services and biodiversity in Bavaria until 2100 | 2024-Present** 
 - Focus Area: Data Visualization, Biodiversity Modeling & Sensitivity Analysis
-- Subproject 2: Biodiversity Tipping Points in Climate and Land Use Change, funded by the climate research network Bayklif, an initiative of the Bavarian State Ministry of Science and the Arts.
+- [Subproject 2: Biodiversity Tipping Points in Climate and Land Use Change](https://bayklif-bliz.de/sub-projects/sub-project-2-biodiversity-tipping-points-in-climate-and-land-use-change/), funded by the climate research network [Bayklif](https://www.bayklif.de/), an initiative of the Bavarian State Ministry of Science and the Arts.
 - Data visualization for species distribution model outputs (MetaRange) using R
 - Conducted spatial data manipulation, created population- and individual-level plots, and performed sensitivity analyses.
 Proficient in the ggplot and raster packages for high-quality visualization and analysis
+
+Check our scripts and data in the [github repository](https://github.com/andrepsilvadev/GermanGrasslandPlants)
 
 **TUNAPRINT: The tuna behind the can | 2022-2023**
 - Focus Area: Marine Genetics & Science Communication
@@ -80,20 +86,27 @@ Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniqu
 
 ### Conference communications
 
-**Turning the tables: Can boarfish become the next sustainable fishery for the Portuguese coast?** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
+> **Turning the tables: Can boarfish become the next sustainable fishery for the Portuguese coast?** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
 
-**Unlocking potential: Leveraging no-value bycatch species into new opportunities** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
+> **Unlocking potential: Leveraging no-value bycatch species into new opportunities** - X Iberian Congress of Ichthyology, Vic, Spain, June 2024
 
 
 ### Conference Posters
 
-**From the Pliocene to present: diversification, gene flow and selection in European sardine’s mitogenomes**
+> **From the Pliocene to present: diversification, gene flow and selection in European sardine’s mitogenomes**
+
 Presented at the 2024 Ciencias Research & Innovation Day
 
-**Estimation of corporate’s effects on species abundance based on ecological processes**
+![poster sardinhas]()
+
+> **Estimation of corporate’s effects on species abundance based on ecological processes**
+
 Presented at the 20th Conference on Complex Systems (CCS2024) at the University of Exeter (UK)
 
-**TUNAPRINT: Molecular identification of canned tuna in Portugal**
+![poster CE3C meeting]()
+
+> **TUNAPRINT: Molecular identification of canned tuna in Portugal**
+
 Presented at the 2023 Ciencias Research & Innovation Day
 ![poster tunaprint](images/ciencias_research_day_poster.png)
 
@@ -101,20 +114,26 @@ Presented at the 2023 Ciencias Research & Innovation Day
 
 Engaging with the public and sharing science is one my favorite parts of my work. See below how some of those activities have allowed me to connect with different audiences, communicate complex concepts in an accessible way, and inspire curiosity about fisheries biology and our oceans' sustainability.
 
-**MSc and PhD Day in Sciences 2023**
+> **MSc and PhD Day in Sciences 2023**
+
 At this event, I had the opportunity to meet prospective students, showcasing FCUL’s graduate programs and sharing insights into the MSc in Marine Ecology. It was rewarding to discuss academic pathways and inspire others to dive into marine research.
 
-**Ciências Open Day 2023**
+> **Ciências Open Day 2023**
+
 As part of this event, I led public engagement activities to disseminate research results from my MSc dissertation, "Struggling with Fish Age: A Comparison of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros aper." Visitors learned how otoliths can reveal fascinating insights into fish age and growth.
+
+![my stand]()
 
 You can read more about this day [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
 
-**24th Pavilion of Knowledge “Centro de Ciência Viva” Anniversary**
+> **24th Pavilion of Knowledge “Centro de Ciência Viva” Anniversary**
+
 I participated in public engagement activities for this exciting event, which welcomed over 5,000 participants of all ages. My science communication focused on fish age and growth, using biological materials like otoliths, cleithra, vertebrae, and opercula to explain the tools we use in fisheries research.
 
 You can learn more about how it all went down [here](https://www.pavconhecimento.pt/24aniversario)!
 
-**European Researcher's Night 2023 "Science for All - Sustainability and Inclusion"**
+> **European Researcher's Night 2023 "Science for All - Sustainability and Inclusion"**
+
 From the Ice Age to the plate: the genetic journey of our fishery resources
 It was an incredible experience to participate in this event at the National Museum of Natural History and Science! Representing the TUNAPRINT project, we designed an interactive game to highlight what could really be inside our tuna cans. Visitors explored the science behind DNA analysis and traceability, linking sustainability and fisheries research.
 ![stand photo](images/NEI2023_foto actividade_2.jpg)
