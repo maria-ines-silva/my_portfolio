@@ -73,7 +73,10 @@ Proficient in the ggplot and raster packages for high-quality visualization and 
 
 ### Publications
 
-Silva, Maria Inês and Martins, Rui and Sequeira, Vera and Silva, Dina and Farias, Inês and Assis, Carlos A. and Gordo, Leonel Serrano and Vieira, Ana Rita, Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros Aper (Linnaeus, 1758). Available at [https://www.nature.com/articles/s41598-024-71209-5](https://www.nature.com/articles/s41598-024-71209-5)
+Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros Aper (Linnaeus, 1758). _Silva, Maria Inês and Martins, Rui and Sequeira, Vera and Silva, Dina and Farias, Inês and Assis, Carlos A. and Gordo, Leonel Serrano and Vieira, Ana Rita_. Available at [https://www.nature.com/articles/s41598-024-71209-5](https://www.nature.com/articles/s41598-024-71209-5)
+
+> **Stay tuned—there’s more science in the pipeline!**
+
 
 ### Conference communications
 
@@ -96,21 +99,29 @@ Presented at the 2023 Ciencias Research & Innovation Day
 
 ### Outreach & Science Communication 
 
+Engaging with the public and sharing science is one my favorite parts of my work. See below how some of those activities have allowed me to connect with different audiences, communicate complex concepts in an accessible way, and inspire curiosity about fisheries biology and our oceans' sustainability.
+
 **MSc and PhD Day in Sciences 2023**
+At this event, I had the opportunity to meet prospective students, showcasing FCUL’s graduate programs and sharing insights into the MSc in Marine Ecology. It was rewarding to discuss academic pathways and inspire others to dive into marine research.
 
 **Ciências Open Day 2023**
+As part of this event, I led public engagement activities to disseminate research results from my MSc dissertation, "Struggling with Fish Age: A Comparison of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros aper." Visitors learned how otoliths can reveal fascinating insights into fish age and growth.
 
-Check out an article about his [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
+You can read more about this day [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
 
 **24th Pavilion of Knowledge “Centro de Ciência Viva” Anniversary**
+I participated in public engagement activities for this exciting event, which welcomed over 5,000 participants of all ages. My science communication focused on fish age and growth, using biological materials like otoliths, cleithra, vertebrae, and opercula to explain the tools we use in fisheries research.
+
+You can learn more about how it all went down [here](https://www.pavconhecimento.pt/24aniversario)!
 
 **European Researcher's Night 2023 "Science for All - Sustainability and Inclusion"**
 From the Ice Age to the plate: the genetic journey of our fishery resources
-
-Such a great experience! On the last friday night of September we were at the National Museum of Natural History and Science sharing the TUNAPRINT project results. We designed a quick and fun game to show what COULD really be inside our tuna cans. Check out our poster and dissemination materials bellow.
+It was an incredible experience to participate in this event at the National Museum of Natural History and Science! Representing the TUNAPRINT project, we designed an interactive game to highlight what could really be inside our tuna cans. Visitors explored the science behind DNA analysis and traceability, linking sustainability and fisheries research.
 ![stand photo](images/NEI2023_foto actividade_2.jpg)
 
-[poster](images/poster A2 NEI23 - TUNAPRINT.png)
-- You can also download our Canned Tuna Consummer's Guide (Pt) [here](https://drive.google.com/uc?export=download&id=15LWc91HtDBjv3dY4EALzFE1DBkIkWtwW)
+Check out the dissemination materials:
+
+- [Poster](images/poster A2 NEI23 - TUNAPRINT.png)
+- [Canned Tuna Consummer's Guide (Pt)](https://drive.google.com/uc?export=download&id=15LWc91HtDBjv3dY4EALzFE1DBkIkWtwW)
 
 
