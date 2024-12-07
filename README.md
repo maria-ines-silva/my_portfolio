@@ -97,13 +97,13 @@ Struggling with Fish Age: A Comparative Analysis of Otolith Preparation Techniqu
 
 Presented at the 2024 Ciencias Research & Innovation Day
 
-![poster sardinhas]()
+![poster sardinhas](images/CRID2024_poster.png)
 
 > **Estimation of corporate’s effects on species abundance based on ecological processes**
 
 Presented at the 20th Conference on Complex Systems (CCS2024) at the University of Exeter (UK)
 
-![poster CE3C meeting]()
+![poster CE3C meeting](images/CE3C_MEETING_2024.png)
 
 > **TUNAPRINT: Molecular identification of canned tuna in Portugal**
 
@@ -122,7 +122,7 @@ At this event, I had the opportunity to meet prospective students, showcasing FC
 
 As part of this event, I led public engagement activities to disseminate research results from my MSc dissertation, "Struggling with Fish Age: A Comparison of Otolith Preparation Techniques to Unravel Age and Growth of Boarfish, Capros aper." Visitors learned how otoliths can reveal fascinating insights into fish age and growth.
 
-![my stand]()
+![my stand](images/DiaAbertoFCUL2023_3.jpg)
 
 You can read more about this day [here](https://www.mare-centre.pt/pt/especies-do-mare-encantam-no-dia-aberto-da-fcul)
 
