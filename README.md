@@ -1,6 +1,3 @@
-![Dependencies](https://tinyverse.netlify.com/badge/dplyr)
-
-
 # Fisheries biologist
 
 # About me
